@@ -104,13 +104,13 @@ Welcome to my vault of specialized projects! This organization serves as a repos
 
 ## 📂 Featured Projects
 
-### 📉 **Customer Churn Prediction System**
+### 📉 **Customer Churn Prediction**
 > **AI-powered desktop application for predicting customer churn with advanced ML techniques**
 - **Features**: GUI-based data exploration, Random Forest classification, real-time predictions, model persistence
 - **Tech Stack**: Python, Tkinter, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Joblib
 - **Highlights**: Interactive desktop interface, feature importance analysis, comprehensive data preprocessing
 - **Capabilities**: Data visualization, model training/saving, confidence-based predictions
-- [**🔗 View Repository**](https://github.com/huzaifa-vault/customer-churn-prediction-system)
+- [**🔗 View Repository**](https://github.com/huzaifa-vault/customer-churn-prediction)
 
 ---
 
