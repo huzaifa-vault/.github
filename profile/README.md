@@ -16,7 +16,7 @@
 
 ## 🚀 About This Organization
 
-Welcome to my vault of specialized projects! This organization serves as a repository for innovative projects that transcend traditional categories—encompassing artificial intelligence, machine learning, data science, research experiments, and cutting-edge technological solutions. Each project represents exploration into emerging technologies and advanced computational techniques.
+Welcome to my vault of specialized projects! This organization serves as a repository for innovative projects that transcend traditional categories encompassing artificial intelligence, machine learning, data science, research experiments, and cutting-edge technological solutions. Each project represents exploration into emerging technologies and advanced computational techniques.
 
 ---
 
@@ -87,9 +87,6 @@ Welcome to my vault of specialized projects! This organization serves as a repos
 <p align="left">
   <a href="https://joblib.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" alt="Joblib" width="40" height="40"/>
-  </a>
-  <a href="https://pickle.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Pickle" width="40" height="40"/>
   </a>
 </p>
 
